@@ -1,4 +1,4 @@
-# Go2ShellByAppleScript
+# Go2Shell By AppleScript
 
 ## Introduce
 
