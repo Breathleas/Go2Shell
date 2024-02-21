@@ -2,7 +2,7 @@
 
 ## Introduce
 
-Go2Shell does not support the latest Mac system，So there's this tool. Open a iTerm2 or Termnal window to the current directory in Finder by a simple click. We support all Finders from 10.6.1 to 12.5.
+Go2Shell does not support the latest Mac system，So there's this tool. Open a iTerm2 or Termnal window to the current directory in Finder by a simple click. We support all Finders from 10.6.1 to 14.1.
 
 ![](./img/1.png)
 
